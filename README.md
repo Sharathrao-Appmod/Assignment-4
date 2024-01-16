@@ -14,6 +14,9 @@ mvn clean package
 sudo docker build -t spring-boot-hibernate-crud-demo:latest .
 sudo docker run -p 8081:8080 spring-boot-hibernate-crud-demo:latest
 
+![Screenshot from 2024-01-12 14-19-36](https://github.com/Sharathrao-Appmod/Assignment-4/assets/155999647/1361a2a8-df34-45c0-b784-39b42edd197b)
+
+
 ## docker images
 gcloud docker -- push asia.gcr.io/dba-datalake-prod/backend/curd:latest
 
