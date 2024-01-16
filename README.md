@@ -5,6 +5,7 @@ COPY target/docker-demo.jar.jar docker-demo.jar
 EXPOSE 8080
 ENTRYPOINT ["java","-jar","./docker-demo.jar"]
 
+![Screenshot from 2024-01-12 17-07-18](https://github.com/Sharathrao-Appmod/Assignment-4/assets/155999647/9ac70e28-5131-4f72-b4bb-a55432b8a744)
 
 
 ## STEP 12: 
